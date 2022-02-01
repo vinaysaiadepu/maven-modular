@@ -10,7 +10,7 @@
     <moduleSet>
       <useAllReactorProjects>true</useAllReactorProjects>
       <includes>
-        <include>${groupId}module2</include>
+        <include>io.jitpack:module2</include>
       </includes>
       <sources>
         <includeModuleDirectory>false</includeModuleDirectory>
