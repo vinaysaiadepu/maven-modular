@@ -28,9 +28,9 @@
         <artifactId>maven-assembly-plugin</artifactId>
         <version>3.3.0</version>
         <configuration>
-          <descriptorRefs>
-            <descriptorRef>src/assembly/src.xml</descriptorRef>
-          </descriptorRefs>
+          <descriptors>
+            <descriptor>src/assembly/src.xml</descriptor>
+          </descriptors>
         </configuration>
       </plugin>
     </plugins>
