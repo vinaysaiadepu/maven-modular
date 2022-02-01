@@ -29,7 +29,7 @@
         <version>3.3.0</version>
         <configuration>
           <descriptorRefs>
-            <descriptorRef>src/assembly/src.xml</descriptorRef>
+            <descriptorRef>**/src/assembly/src.xml</descriptorRef>
           </descriptorRefs>
         </configuration>
       </plugin>
