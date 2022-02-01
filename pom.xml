@@ -35,11 +35,11 @@
       </plugin>
     </plugins>
   </build>
-  <dependencies>
+<!--   <dependencies>
     <dependency>
       <groupId>com.github.jitpack</groupId>
       <artifactId>maven-modular</artifactId>
       <version>1.1</version>
     </dependency>
-  </dependencies>
+  </dependencies> -->
 </project>
