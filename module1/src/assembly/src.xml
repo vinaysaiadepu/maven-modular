@@ -10,7 +10,7 @@
     <moduleSet>
       <useAllReactorProjects>true</useAllReactorProjects>
       <includes>
-        <include>org.test:module1</include>
+        <include>${groupId}module1</include>
       </includes>
       <sources>
         <includeModuleDirectory>false</includeModuleDirectory>
