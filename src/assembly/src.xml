@@ -11,6 +11,7 @@
       <useAllReactorProjects>true</useAllReactorProjects>
       <includes>
         <include>io.jitpack:module1</include>
+        <include>io.jitpack:module2</include>
       </includes>
       <sources>
         <includeModuleDirectory>false</includeModuleDirectory>
